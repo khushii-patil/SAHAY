@@ -102,6 +102,62 @@ SAHAY/
 │── assets/             # Screenshots
 │── README.md
 ```
+## 🖼️ Screenshots
+
+### 🔐 Login Page — Dual Authentication Interface
+
+**Password Login**
+![Login Password](assets/LoginWithPassword.png)
+
+**OTP Login**
+![Login OTP](assets/LoginWithOTP.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard 1](assets/Dashboard1.png)
+![Dashboard 2](assets/Dashboard2.png)
+
+---
+
+### 📝 User Registration Form
+
+![Register](assets/Register.png)
+
+---
+
+### 🧾 Incident Logging
+
+**Form View**
+![Incident Form 1](assets/IncidentLoggingForm1.png)
+![Incident Form 2](assets/IncidentLoggingForm2.png)
+
+**List View**
+![Incident List 1](assets/IncidentLogListView1.png)
+![Incident List 2](assets/IncidentLogListView2.png)
+
+---
+
+### 🚨 SOS Emergency Page
+
+![SOS](assets/SOSEmergencyPage1.png)
+
+---
+
+### ⚖️ Complaint Detail View
+
+![Complaint](assets/ComplaintDetailView.png)
+
+---
+
+### 📚 Legal Knowledge Section
+
+![Legal 1](assets/LegalKnowledge(1).png)
+![Legal 2](assets/LegalKnowledge(2).png)
+![Legal 3](assets/LegalKnowledge(3).png)
+![Legal 4](assets/LegalKnowledge(4).png)
+![Legal 5](assets/LegalKnowledge(5).png)
 
 ---
 
