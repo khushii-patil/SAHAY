@@ -153,11 +153,11 @@ SAHAY/
 
 ### 📚 Legal Knowledge Section
 
-![Legal 1](assets/LegalKnowledge(1).png)
-![Legal 2](assets/LegalKnowledge(2).png)
-![Legal 3](assets/LegalKnowledge(3).png)
-![Legal 4](assets/LegalKnowledge(4).png)
-![Legal 5](assets/LegalKnowledge(5).png)
+![Legal 1](assets/LegalKnowledge (1).png)
+![Legal 2](assets/LegalKnowledge (2).png)
+![Legal 3](assets/LegalKnowledge (3).png)
+![Legal 4](assets/LegalKnowledge (4).png)
+![Legal 5](assets/LegalKnowledge (5).png)
 
 ---
 
